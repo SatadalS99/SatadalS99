@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Satadal.</h1>
 <h3 align="center">Presently studying M.Sc. Data Science.</h3>
 
