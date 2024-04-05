@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Many new concepts of Data Science, ML and NLP.**
 
-- 👯 I’m looking to collaborate on **Different live projects.**
+- 👯 I’m looking forward to collaborate on **Different live projects.**
 
-- 💬 Ask me about **Data Science topics if I can help.**
+- 💬 Ask me about **Data Science topics.**
 
 - 📫 How to reach me **The email is just under the pic on the left.**
 
