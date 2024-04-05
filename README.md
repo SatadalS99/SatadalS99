@@ -1,6 +1,4 @@
 ### Hi there 👋, I am Satadal.
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/satadals/)
 
 Presently studying Data Science.
 Worked as SAP functional end user for 8+ years.
