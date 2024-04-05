@@ -3,7 +3,7 @@
 Presently studying Data Science.
 Worked as SAP functional end user for 8+ years.
 
-Skills: python/SQL/Big Data analytics/Advanced statistical learning/Linear model
+Prsent Skills: python/SQL/Big Data analytics/Advanced statistical learning/Linear model
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning SQL and python   
