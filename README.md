@@ -1,9 +1,21 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+19641
+Fork on GitHub
+5897
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Satadal.</h1>
 <h3 align="center">Presently studying M.Sc. Data Science.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satadals99&label=Profile%20views&color=0e75b6&style=flat" alt="satadals99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satadals99" alt="satadals99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,9 +23,9 @@
 
 - 🌱 I’m currently learning **Many new concepts of Data Science, ML and NLP.**
 
-- 👯 I’m looking forward to collaborate on **Different live projects.**
+- 👯 I’m looking to collaborate on **Different live projects.**
 
-- 💬 Ask me about **Data Science topics.**
+- 💬 Ask me about **Data Science topics if I can help.**
 
 - 📫 How to reach me **The email is just under the pic on the left.**
 
@@ -32,3 +44,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satadals99&show_icons=true&locale=en" alt="satadals99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satadals99&" alt="satadals99" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
