@@ -4,17 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Many small projects.**
+- 🔭 I’m currently working on **a few small projects.**
 
-- 🌱 I’m currently learning **Many new concepts of Data Science, ML and NLP.**
+- 🌱 I’m currently learning **many new concepts of Data Science, ML and NLP.**
 
-- 👯 I’m looking to collaborate on **Different live projects.**
+- 👯 I’m looking to collaborate on **different live projects.**
 
-- 💬 Ask me about **Data Science topics if I can help.**
-
-- 📫 How to reach me **The email is just under the pic on the left.**
-
-- ⚡ Fun fact **I play all kinds of Sports.**
+- 💬 Ask me about **Data Science topics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
