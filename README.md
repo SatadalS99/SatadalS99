@@ -3,7 +3,7 @@
 I am an **M.Sc. Data Science student at TU Dortmund** with a background in operational data management and a passion for solving real-world business challenges through data.
 
 * 🎓 **Currently:** Pursuing my Masters at TU Dortmund 
-* 📊 **Focus:** Data Analysis, Statistical Modeling, Machine Learning, AI, NLP, and LLMs
+* 📊 **Focus:** Data Analysis, Statistical Modeling, Machine Learning, Generative AI applications,Finetuning LLM, Prompt engineering.
 * 🛠️ **Tech Stack:** Python (Pandas, NumPy, Scikit-learn, Seaborn, and Streamlit), SQL 
 * ⚙️ **Dev Tools:** VS Code, Jupyter Notebook, Anaconda, Git, and Linux
 * ✨ **AI Tools:** Claude AI, Gemini, and ChatGPT
