@@ -8,5 +8,5 @@ I am an **M.Sc. Data Science student at TU Dortmund** with a background in opera
 * ⚙️ **Dev Tools:** VS Code, Jupyter Notebook, Anaconda, Git, and Linux
 * ✨ **AI Tools:** Claude AI, Gemini, and ChatGPT
 * 🏢 **Data Management:** SAP and MS Office (Excel, Word, PowerPoint)
-* 💬 **Languages:** English (C1) & German (B1 - Learning)
+* 💬 **Languages:** English (C1) & German (B1)
 * 📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/satadals/) | [Portfolio](https://satadals99.github.io/portfolio/)
